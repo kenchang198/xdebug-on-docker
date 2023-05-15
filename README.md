@@ -5,3 +5,6 @@ https://zenn.dev/aono/articles/40be14b1753897
 
 VSCodeに追加する拡張機能
 PHP Debug （Xdebug公式 ?）
+
+デバッグを解除
+ブレークポイントを外せばOK
