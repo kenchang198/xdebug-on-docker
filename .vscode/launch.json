@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "XDebug on docker",
+            "type": "php",
+            "request": "launch",
+            "port": 9003,
+            "pathMappings": {
+                "/var/www/html": "/Users/ken/dockerfiles/docker_xdebug/html"
+            }
+        }
+    ]
+}
