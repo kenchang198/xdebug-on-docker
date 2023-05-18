@@ -11,4 +11,4 @@ Xdebug徹底解説！環境ごとの設定方法から仕組みまでどこよ�
 https://www.membersedge.co.jp/blog/php-xdebug/  
 
 VSCodeに追加する拡張機能  
-PHP Debug （Xdebug公式）
+PHP Debug （Xdebug公式）.
